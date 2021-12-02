@@ -8,7 +8,7 @@
  </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Bruna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-yoda" src="https://drive.google.com/file/d/1KnbHhdVrJVhP5MGh0FcZ80iaFqhh9Nfx/view?usp=sharing">
 </div>
 
    ##
