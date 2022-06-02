@@ -10,7 +10,7 @@
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
+  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903018166219866122/982029115639103568/unknown.png">
 
    ##
  
