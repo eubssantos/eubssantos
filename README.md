@@ -6,8 +6,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubssantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
