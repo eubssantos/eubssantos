@@ -14,7 +14,7 @@
     src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
  </div>
 
-   ##[url=[/img][/url]
+   ##
  
 <div> 
   <a href="https://www.instagram.com/adaytobruna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
