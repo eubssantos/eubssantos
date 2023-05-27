@@ -9,11 +9,12 @@
   <img align="center" alt="Bruna-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruna-mySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bruna-spring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Bruna-kafka" height="50" width="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
     src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
  </div>
 
-   ##
+   ##[url=[/img][/url]
  
 <div> 
   <a href="https://www.instagram.com/adaytobruna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
