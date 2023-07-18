@@ -1,26 +1,48 @@
-### Olá! Eu sou a Bruna
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruna+Silva+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eubssantos&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eubssantos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eubssantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubssantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/adaytobruna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/bruna-silva-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:brunahoope@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+ 
+ ### Main skills:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=for-the-badge&logo=apachekafka&labelColor=#231F20)&nbsp; 
+
+
+### Studying in this moment:
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=#2496ED)&nbsp; 
+![Amazon EC2](https://img.shields.io/badge/-AMAZON%20EC2-0D1117?style=for-the-badge&logo=amazonec2&labelColor=#FF9900)&nbsp; 
+![Amazon S3](https://img.shields.io/badge/-AMAZON%20S3-0D1117?style=for-the-badge&logo=amazons3&labelColor=#569A31)&nbsp; 
+
 
 <div align="center">
-  <a href="https://github.com/eubssantos">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=eubssantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubssantos&layout=compact&langs_count=7&theme=dracula"/>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eubssantos}/count.svg" /></p> 
+<br>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bruna-mySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bruna-spring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img align="center" alt="Bruna-kafka" height="50" width="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">
-  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
-    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
- </div>
 
-   ##
- 
-<div> 
-  <a href="https://www.instagram.com/adaytobruna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunahoope@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-silva-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/eubssantos/eubssantos/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+
