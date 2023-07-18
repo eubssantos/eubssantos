@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eubssantos&show_icons=true&count_private=true&hide_border=true&title_color=b7d5e5&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubssantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=b7d5e5&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eubssantos&show_icons=true&count_private=true&hide_border=true&title_color=b7d5e5&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Silva Santos github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubssantos&layout=compact&hide_border=true&title_color=b7d5e5&text_color=b7d5e5&bg_color=0d1117"/>
 </div>
 
 
