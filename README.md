@@ -28,6 +28,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=for-the-badge&logo=apachekafka&labelColor=#231F20)&nbsp; 
+![MongoDB](https://img.shields.io/badge/-mongoDB-0D1117?style=for-the-badge&logo=mongoDB&labelColor=0D1117)&nbsp; 
 
 
 ### Studying in this moment:
